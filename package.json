@@ -15,7 +15,7 @@
     }
   },
   "dependencies": {
-    "@vue/devtools": "^5.0.6",
+    "@vue/devtools": "^6.4.5",
     "vue-class-component": "^7.1.0",
     "vue-property-decorator": "^8.3.0",
     "nativescript-socketio": "^3.2.1",
